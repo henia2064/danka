@@ -10,5 +10,6 @@ danka
 
 #Rozdział drugi  
 
-*A teraz Ty coś dodaj*
+*A teraz Ty coś dodaj*  
+np. ładny obrazek.
 
